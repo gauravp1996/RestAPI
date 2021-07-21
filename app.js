@@ -114,5 +114,5 @@ res.send("Succesfully Deleted One");
 
 
 app.listen(3000,()=>{
-console.log("SERVER READY TO SUCK");
+console.log("SERVER RUNNING");
 });
